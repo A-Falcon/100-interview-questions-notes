@@ -21,6 +21,7 @@ console.log(filterExample)
 //you can return a single value
 //has accumaltor value, keeps track of previous values you have been maping
 //through (value,array, object,string)
+//always return accumulator or else it gets reset
 
 const reduceExample = prices.reduce((total, current) => {
   return (total += current)
@@ -28,7 +29,9 @@ const reduceExample = prices.reduce((total, current) => {
 
 const reduceArrEx = prices.reduce((acc, value) => {
   const newVal = value + 1
-  acc.push(newVal)
+  if (newVal <= 20) {
+    acc.push(newVal)
+  }
   return acc
 }, [])
 
