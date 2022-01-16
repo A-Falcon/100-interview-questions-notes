@@ -1,0 +1,8 @@
+how to debug your code?
+
+console.logs('yay!)
+inspector in the browser!
+test cases
+
+chrome extenstion Augury
+
