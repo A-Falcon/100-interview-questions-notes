@@ -1,0 +1,8 @@
+/* css box model is how certain css properties work around each element  
+
+each element in the html has a box model associated with it and it starts from: 
+ the element level itself
+ around is padding(adds to what you see)
+ around padding there is a border
+ around the border there is a margin( moves it away from other box models in the area)
+*/
