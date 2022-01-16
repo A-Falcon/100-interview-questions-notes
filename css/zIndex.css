@@ -1,0 +1,18 @@
+/* what is the z index 
+
+
+when you have layers in your css
+
+
+items lay ontop of eachother
+
+
+we create a z coor to stack things together i.e a modal or paralax
+*/
+
+img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
