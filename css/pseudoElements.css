@@ -1,0 +1,25 @@
+/* pseudo elements are selectors we are typing to do things on the page with (used with two colons '::')
+there are three elements youre dealing with when it comes to css:
+   you have: 
+    - the element itself 
+    - before element
+    - after element
+they are:
+  -::after (:after)
+  - ::backdrop
+  - ::before (:before)
+  - ::cue
+  - ::cue-region
+  - ::first-letter (:first-letter)
+  - ::first-line (:first-line)
+  - ::file-selector-button
+  - ::grammar-error 
+  - ::marker
+  - ::part()
+  - ::placeholder
+  - ::selection
+  -::slotted()
+  - ::spelling-error 
+  -::target-text
+
+*/
