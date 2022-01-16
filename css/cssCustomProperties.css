@@ -1,0 +1,20 @@
+/* you declare a set of settings to a var in css
+
+*/
+:root {
+  --headingColor: green;
+  --borderStandard: 1px solid black;
+}
+
+h1 {
+  color: var(--headingColor);
+  border: var(--borderStandard);
+}
+
+h2 {
+  color: var(--headingColor);
+}
+
+h3 {
+  color: var(--headingColor);
+}
