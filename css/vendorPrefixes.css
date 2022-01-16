@@ -1,0 +1,14 @@
+/* vendor prefixes are additional selectors for the browser, it will check what browser your in a add certain styles
+
+andriod/chrome/IOS/safari -   -webkit-
+
+Firefox -                     -moz-
+
+internet Explorer -           -ms-
+
+opera -                       -o-
+
+these are depricated
+
+
+*/
