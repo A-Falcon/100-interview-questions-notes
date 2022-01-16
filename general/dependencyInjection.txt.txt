@@ -1,0 +1,3 @@
+instead of having multiple places where in inject a dependency, have one sole place that will inject to and then use in multiple places
+
+
