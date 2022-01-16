@@ -1,0 +1,8 @@
+how would you go about speeing up a slow app?
+what about the app is slow?
+
+
+are images the right size?
+check the network calls
+
+*a nice dev tool is lighthouse*
