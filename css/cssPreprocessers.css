@@ -1,0 +1,14 @@
+/* css preprocessers provide the same functionality as css but slightly different syntax 
+
+some of them are: 
+  - SASS
+    - nesting of css
+    - adding variablies in our css
+    - mixins
+      - usually used when you have a large snippet of css properties (for things that are very detailed)
+    - used to handle outdated browsers so that they are all happy
+
+
+might make build time a little longer 
+
+*/
