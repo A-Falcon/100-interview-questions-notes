@@ -1,0 +1,18 @@
+what are some code pinciplies?
+
+Single responsibility principlie
+    - functions and classes should have one reason only
+
+Open- close principles
+  - open for extention 
+  - closed for modifiction
+
+Liskov Substitution principle
+  - every subclass or derived class should be subtituted for heir base or parent class
+
+Interface Segregation principle
+  - a client should never be forced to implement an interface that it doesnt use
+  -  clients should not be forced to depend on methods they do not use.
+
+Dependency Inversion principle
+  -high level module must not depend on low level module but they should depend on abstractions
