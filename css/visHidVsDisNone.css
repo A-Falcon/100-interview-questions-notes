@@ -1,0 +1,22 @@
+/* often times in response web design your dealing with dynamically generated content */
+/* both elements are still in the DOM and the tag is still rendered in the HTML */
+
+/* visibility: hidden; */
+/* space will still be there it is just hiding it */
+
+.red {
+  visibility: hidden;
+  background-color: red;
+  height: 20px;
+  width: 20px;
+}
+
+/* display: none; */
+/* removes spacing that the element would have taken up */
+
+.green {
+  display: none;
+  background-color: green;
+  height: 20px;
+  width: 20px;
+}
