@@ -1,0 +1,20 @@
+/* css specificty || cascading || inheritance */
+
+/* css spec. is about what styles override what styles based on our selectors */
+
+/* less specific to most: 
+  * is the most loose selector because it selects everything.
+
+  having an h1 as a selector will select all the h1's
+
+  adding a . to our selector(having a class) will override the base selector 
+
+  adding a # to our selector (an ID) will override the class 
+
+  chaining them together will have higher order over those
+
+  then there are inline styles in the html
+
+  and last there is the !important on our css declaration (usally a bad convention)
+  
+  */
