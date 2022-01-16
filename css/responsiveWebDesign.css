@@ -1,0 +1,13 @@
+/* the concept of building a single application for multiple device types */
+
+/* media queries are set by adding a width as a sort of thershold, 
+ex: you mush be this wide to pass onto this code
+css flexbox or css grid is native to css and is modern
+*/
+
+@media only screen and (max-width: 300px) {
+  body {
+    display: grid;
+    grid-template-columns: 50% 50%;
+  }
+}
