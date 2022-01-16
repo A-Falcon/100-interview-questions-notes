@@ -1,0 +1,10 @@
+/* we want to use the technical terms that are associated with the subject matter */
+/* property: an aspect within a css selector that will be assigned a value */
+/* combination of various properties for a css selector would be refere to as a rule  or rule set*/
+
+/* a declaration is the combo of a property and a value */
+
+div {
+  height: 100px;
+  background-color: black;
+}
