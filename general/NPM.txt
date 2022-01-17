@@ -1,0 +1,8 @@
+wwhat is npm?
+
+node package manager
+
+
+you install dependenies/packages through npm
+
+it will be added to your package-json 
