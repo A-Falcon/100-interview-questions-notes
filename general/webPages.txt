@@ -1,0 +1,7 @@
+how do web pages work?
+
+when you go to a website and its loading a url, its going to use an address (domain name).
+
+a server will serve it up and return the dependency
+
+website might as for certain permissions or redirect you but ultimatly it will load up any dependenies (images) and load our your index file.
