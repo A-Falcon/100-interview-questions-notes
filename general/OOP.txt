@@ -1,0 +1,4 @@
+Object Oriented Programming -
+
+a way to architec your code by most standards
+a majory point is inheritance, we inherit from other classes
