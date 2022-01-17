@@ -1,0 +1,11 @@
+spa - singel page application
+single load or lazing loading
+
+problems they are saving
+
+easy property binding from the template to javascript and back
+
+easy dynamic content
+
+rounting 
+  - having certain parts of thr page load faster 
