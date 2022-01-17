@@ -1,0 +1,7 @@
+function programming -
+  pure functions
+  avoiding shared state
+  avoiding mutables data
+  avoiding side effects
+
+  
