@@ -1,0 +1,12 @@
+how do you version control your code?
+
+i use git
+-clone the repo 
+-create a branch
+  -creat new branch - git checkout -b branch_exmaple
+  -move branch git checkout
+  -git merge master
+-stage
+-commit
+-push
+-pull request
