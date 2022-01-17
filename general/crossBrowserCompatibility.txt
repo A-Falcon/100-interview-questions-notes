@@ -1,0 +1,6 @@
+how do you test for multiple browsers?
+
+test finished profuct on multiple browsers
+
+browser stack - subscription needed
+
