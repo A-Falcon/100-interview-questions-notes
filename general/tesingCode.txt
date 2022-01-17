@@ -1,0 +1,5 @@
+how do you test your code?
+
+i run through it with a client mindset to see if it 'works'
+
+using typescript it kinda tests my code as i go if i have props set to a type
