@@ -1,0 +1,3 @@
+what are components?
+
+sections of code that are reusable 
