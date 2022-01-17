@@ -1,0 +1,4 @@
+what is the last thing you learned recenlty ?
+
+i started to get into dart/flutter
+it made production easier and faster with thier wwidget system
