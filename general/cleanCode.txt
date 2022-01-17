@@ -1,0 +1,7 @@
+are you following clean code standards?
+
+use domain knowwledge that the buiness has associated wwith and not arbitrary words
+
+i like to use a themeProvider becuase it makes stying a lot cleaner.
+i can set a unit and use it for my border and all my borders will be the same because of the themeProvider props
+the same for colors, when i make a color chnage i dont have to go search for every color that will be modified, it will be all in one place
