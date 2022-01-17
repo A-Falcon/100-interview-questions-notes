@@ -1,0 +1,8 @@
+static vs dynamic
+
+static: (javascript)
+type errors occur during the compilation step, that is, at compile time.
+
+
+dynamic:(typescript)
+the errors occur only once the program is executed. That is, at runtime.
