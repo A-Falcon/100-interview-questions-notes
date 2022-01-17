@@ -1,0 +1,18 @@
+what tools do you use?
+
+i use git for my version  control
+
+i use my macbook for development
+
+i use vscode
+  - eslint
+  - prettier
+  - bracket pair colorizer
+  - live server
+  - quokka
+  
+
+node
+npm yarn
+
+
