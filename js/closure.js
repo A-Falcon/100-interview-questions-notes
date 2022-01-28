@@ -22,3 +22,7 @@ const add1 = (function() {
 console.log(add1())
 console.log(add1())
 console.log(add1())
+
+
+//closures are functions that can access values outside of their own curly braces
+// its a function combined with its lexical envirnment
